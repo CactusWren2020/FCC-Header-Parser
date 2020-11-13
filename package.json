@@ -14,7 +14,7 @@
 		"parse-headers": "^2.0.3"
 	},
 	"engines": {
-		"node": "4.4.5"
+		"node": "15.2.0"
 	},
 	"repository": {
 		"type": "git",
